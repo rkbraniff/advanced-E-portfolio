@@ -12,9 +12,8 @@ html {
 }
 
 #personal-logo {
-  height: 50px;
-  width: 50px;
-  filter: invert(1);
+  height: 100px;
+  width: auto;
 }
 
 li {
@@ -594,7 +593,7 @@ footer {
 }
 
 .footer__logo--img {
-  height: 70px;
+  height: 300px;
 }
 
 .footer__social--list {
